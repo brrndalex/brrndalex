@@ -7,8 +7,8 @@ ________________________________________________________________________________
 
 **Навигация:**
 
-    1. Репозиторий с проектами Data Enginer. 
-    2. Сертификаты о прохождении курсов.
+1. Репозиторий с проектами Data Enginer. 
+2. Сертификаты о прохождении курсов.    
     
 <!--
 **brrndalex/brrndalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
