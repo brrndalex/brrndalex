@@ -1,5 +1,5 @@
 ✨👋 **Приветствую тебя!**  👋✨   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73C22&width=435&lines=Я;Филоненко+Александр;Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73C22&width=435&lines=Я;Я+Филоненко+Александр;Data+Engineer)](https://git.io/typing-svg)
 
 *Здесь собраны мои скромные наработки, "созданные" на пути моего становления как Data Engineer.*
 
